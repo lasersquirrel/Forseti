@@ -11,7 +11,7 @@ from sklearn.metrics import classification_report
 from imblearn.over_sampling import RandomOverSampler
 from imblearn.over_sampling import SMOTENC, ADASYN
 from collections import Counter
-
+from keras.utils import to_categorical
 
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
