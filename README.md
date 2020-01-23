@@ -18,7 +18,8 @@ If you don't already have it:
 **keras** - `pip install keras`
 
 ## Data
-Get the data from the [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection/data) Keggle project. (You will need to create an account)
+Get the data from the [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection/data) Keggle project. (You will need to create an account)  
+Once you have the data, place the `.csv`s in the folder `data` under the main project folder.
 
 ## How does it work?
 <marquee><h1>I have no idea!</h1></marquee>
