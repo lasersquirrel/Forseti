@@ -3,3 +3,6 @@
 ./data
 *.pickle
 *.h5
+*.icloud
+.ipynb_checkpoints
+.DS_Store
